@@ -1,9 +1,8 @@
 # Railway-Reservation-System
 
 # Technology Stack:
-# Frontend: HTML, CSS, JavaScript 
-# Backend: Python (Django)
-# Database: MySQL
+# Frontend:  Python (Django) ,HTML, CSS, JavaScript,  MySQL 
+
 
 # Screenshot 1 - Home
 ![Screenshot 2024-11-28 181236](https://github.com/user-attachments/assets/985f7860-2003-417d-b257-8fa7a898a53c)
